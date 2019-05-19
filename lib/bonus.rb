@@ -23,7 +23,7 @@ def bonus
   #code your solution here:
 
   test = epic_tragedy[:montague]
-  test
+  puts test
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy

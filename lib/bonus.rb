@@ -24,6 +24,7 @@ def bonus
 
   test = epic_tragedy[:montague]
   puts test
+  puts "hi"
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
